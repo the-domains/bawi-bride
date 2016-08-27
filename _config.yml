@@ -1,4 +1,3 @@
-layout_spectrum: 0.6482621866744012
 typography_spectrum: 0.22836195025593042
 color:
   brandStrength: 0.2887887437827885
@@ -11,11 +10,16 @@ color:
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
+layout_spectrum: 0.6482621866744012
 author:
   name: Perzen Patel
   email: perzen@bawibride.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/638733ca-3ab8-4a72-96c2-28cd5ebd0a7f.png
 name: Bawi Bride Kitchen
+navigation:
+  - name: What We Do
+    id: b36a9d1f-f1a1-46fe-a1d0-b99767ae736b
+    type: content
 title: Taste the Love. Love the Taste.
 description: Jamva Chalo Ji
