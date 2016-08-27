@@ -1,18 +1,20 @@
 ---
-datePublished: '2016-08-26T14:51:23.220Z'
-sourcePath: _posts/2016-08-26-craving-parsi-food-order-lunch-online.md
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-26T14:49:06.860Z'
+id: afc8d6c7-d6b8-4dfb-8649-79a7a0fe790c
+dateModified: '2016-08-26T16:24:50.660Z'
 title: Craving Parsi Food? Order Lunch Online!
-publisher: {}
+datePublished: '2016-08-26T16:24:51.550Z'
+author: []
+hasPage: true
 description: >-
   We have partnered with two of the top food-delivery services in town to make
   sure you get can access a delicious plate of Parsi food for lunch any time you
   feel the fancy! Our restaurant is accessible on these platforms 7 days a week
   and delivery is available from Mahim - Malabar Hill.
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-26-craving-parsi-food-order-lunch-online.md
+url: craving-parsi-food-order-lunch-online/index.html
 _type: Blurb
 
 ---
