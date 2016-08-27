@@ -1,22 +1,24 @@
 ---
-datePublished: '2016-08-26T16:07:33.681Z'
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-26T16:07:30.246Z'
+id: d46faf6b-f6b1-4e7e-9b9d-7a63b0156230
+dateModified: '2016-08-26T16:29:42.514Z'
 title: Party Catering Menu
-publisher: {}
+datePublished: '2016-08-26T16:29:43.141Z'
+author: []
+hasPage: true
 description: >-
   There is more to Parsi food than Dhansak! Explore our extensive menu featuring
   iconic dishes as well as lesser known favourites that taste even better. From
   birthdays to house-parties to formal events, our menu can be adapted to suit
   your needs.
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-26-party-catering-menu.md
+url: party-catering-menu/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0ca0fa-af67-4e49-9aeb-26890decbf60.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/936cb2e0-91f2-48de-ae46-74f1ac2c2134.jpg)
 
 # Party Catering Menu
 
