@@ -1,4 +1,3 @@
-layout_spectrum: 0.0922707652207464
 typography_spectrum: 0.878828494111076
 color:
   brandStrength: 0.05436759232543409
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.0922707652207464
+author:
+  name: Perzen Patel
+  email: perzen@bawibride.com
 name: Bawi Bride
+title: Taste the Love. Love the Taste.
