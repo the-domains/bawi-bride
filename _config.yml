@@ -1,18 +1,28 @@
-typography_spectrum: 0.878828494111076
+typography_spectrum: 0.22836195025593042
 color:
-  brandStrength: 0.05436759232543409
-  lightness: 0.4799663280136883
-  saturation: 0.787701997673139
-  rhythmicContrast: 0.16847963514737785
+  brandStrength: 0.2887887437827885
+  lightness: 0.9076210898347199
+  saturation: 0.2522584747057408
+  rhythmicContrast: 0.46687114029191434
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.0922707652207464
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+layout_spectrum: 0.6482621866744012
 author:
   name: Perzen Patel
   email: perzen@bawibride.com
-name: Bawi Bride
-title: Taste the Love. Love the Taste.
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/638733ca-3ab8-4a72-96c2-28cd5ebd0a7f.png
+name: Bawi Bride Kitchen
+navigation:
+  - name: What We Do
+    id: b36a9d1f-f1a1-46fe-a1d0-b99767ae736b
+    type: content
+  - name: Order Lunch Online
+    id: afc8d6c7-d6b8-4dfb-8649-79a7a0fe790c
+    type: content
+title: Delicious Parsi Food
+description: Taste the Love. Love the Taste
