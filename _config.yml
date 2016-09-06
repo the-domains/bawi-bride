@@ -21,11 +21,11 @@ navigation:
   - name: What We Do
     id: b36a9d1f-f1a1-46fe-a1d0-b99767ae736b
     type: content
-  - name: Order Lunch Online!
-    id: afc8d6c7-d6b8-4dfb-8649-79a7a0fe790c
-    type: content
   - name: Party Catering Menu
     id: d46faf6b-f6b1-4e7e-9b9d-7a63b0156230
+    type: content
+  - name: Order Lunch Online!
+    id: afc8d6c7-d6b8-4dfb-8649-79a7a0fe790c
     type: content
   - name: Ready to Cook
     id: a8ce6648-d736-4a9a-9d77-2fd3eceb603b
