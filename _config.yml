@@ -21,5 +21,8 @@ navigation:
   - name: What We Do
     id: b36a9d1f-f1a1-46fe-a1d0-b99767ae736b
     type: content
+  - name: Order Lunch Online!
+    id: afc8d6c7-d6b8-4dfb-8649-79a7a0fe790c
+    type: content
 title: Delicious Parsi Food
 description: Taste the Love. Love the Taste
