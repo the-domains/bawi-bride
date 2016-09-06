@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T11:51:40.624Z'
+datePublished: '2016-09-02T11:53:41.659Z'
 sourcePath: _posts/2016-08-26-party-catering-menu.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T11:51:39.265Z'
+dateModified: '2016-09-02T11:53:40.237Z'
 title: Party Catering Menu
 id: d46faf6b-f6b1-4e7e-9b9d-7a63b0156230
 publisher: {}
@@ -16,7 +16,7 @@ description: >-
   can be adapted to suit your needs.
 starred: false
 url: party-catering-menu/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/936cb2e0-91f2-48de-ae46-74f1ac2c2134.jpg)
