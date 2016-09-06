@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-02T13:38:11.170Z'
+datePublished: '2016-09-02T14:20:08.039Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T13:38:09.865Z'
+dateModified: '2016-09-02T14:20:07.728Z'
 title: The Bawi Bride Story
 publisher: {}
 description: >-
