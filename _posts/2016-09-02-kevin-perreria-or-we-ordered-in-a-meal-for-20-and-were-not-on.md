@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T14:18:46.212Z'
+datePublished: '2016-09-02T14:20:06.165Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T14:17:58.052Z'
+dateModified: '2016-09-02T14:20:05.636Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,9 +12,9 @@ description: >-
   'home-cooked' it felt... The flavours were true. The servings were generous.
   The packaging good and, most importantly, the delivery was on time. All in all
   very convenient! 
-starred: false
 sourcePath: >-
   _posts/2016-09-02-kevin-perreria-or-we-ordered-in-a-meal-for-20-and-were-not-on.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
