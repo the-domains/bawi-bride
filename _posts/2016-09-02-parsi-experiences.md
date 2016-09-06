@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-02T13:05:05.053Z'
+datePublished: '2016-09-02T13:05:36.873Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T13:04:58.519Z'
+dateModified: '2016-09-02T13:05:35.856Z'
 title: Parsi Experiences
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   between 4 – 15 people. Be it a cooking class, a home-dining experience or a
   food walk, all of our Parsi experiences can be completely customised to suit
   your group’s requirements. 
-starred: false
 sourcePath: _posts/2016-09-02-parsi-experiences.md
+starred: false
 url: parsi-experiences/index.html
 _type: Article
 
