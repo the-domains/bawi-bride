@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-09-02T13:37:51.054Z'
+datePublished: '2016-09-02T13:38:11.170Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T13:36:11.522Z'
+dateModified: '2016-09-02T13:38:09.865Z'
 title: The Bawi Bride Story
 publisher: {}
 description: >-
   I have always been fond of food. Eating food and feeding food runs in my DNA –
   my Mamaiji ran a Parsi dabba service before I even came into this world and
   later, my mom sold cutlets and pattice when we moved to New Zealand.
-starred: false
 sourcePath: _posts/2016-09-02-the-bawi-bride-story.md
+starred: false
 url: the-bawi-bride-story/index.html
 _type: Blurb
 
