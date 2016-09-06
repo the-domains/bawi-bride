@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T13:53:48.509Z'
+datePublished: '2016-09-02T14:20:16.154Z'
 sourcePath: _posts/2016-09-02-parsi-experiences.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T13:53:41.804Z'
+dateModified: '2016-09-02T14:20:15.819Z'
 title: Parsi Experiences
 publisher: {}
 description: >-
