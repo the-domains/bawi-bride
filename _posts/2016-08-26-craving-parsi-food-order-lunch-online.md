@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T11:49:47.556Z'
+datePublished: '2016-09-02T11:51:28.529Z'
 sourcePath: _posts/2016-08-26-craving-parsi-food-order-lunch-online.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T11:49:32.817Z'
+dateModified: '2016-09-02T11:51:27.593Z'
 title: Craving Parsi Food? Order Lunch Online!
 id: afc8d6c7-d6b8-4dfb-8649-79a7a0fe790c
 publisher: {}
