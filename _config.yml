@@ -1,4 +1,3 @@
-layout_spectrum: 0.47440683003515005
 typography_spectrum: 0.42946447408758104
 color:
   brandStrength: 0.2887887437827885
@@ -11,6 +10,7 @@ color:
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
+layout_spectrum: 0.47440683003515005
 author:
   name: Perzen Patel
   email: perzen@bawibride.com
@@ -26,6 +26,9 @@ navigation:
     type: content
   - name: Party Catering Menu
     id: d46faf6b-f6b1-4e7e-9b9d-7a63b0156230
+    type: content
+  - name: Ready to Cook
+    id: a8ce6648-d736-4a9a-9d77-2fd3eceb603b
     type: content
 title: Delicious Parsi Food
 description: Taste the Love. Love the Taste
