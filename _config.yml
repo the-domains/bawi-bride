@@ -30,5 +30,8 @@ navigation:
   - name: Ready to Cook
     id: a8ce6648-d736-4a9a-9d77-2fd3eceb603b
     type: content
+  - name: Parsi Experiences
+    id: b8d7c180-89b6-4627-8a8c-5785876f97c4
+    type: content
 title: Delicious Parsi Food
 description: Taste the Love. Love the Taste
