@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T11:45:48.972Z'
+datePublished: '2016-09-02T11:51:40.624Z'
 sourcePath: _posts/2016-08-26-party-catering-menu.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T11:45:18.346Z'
+dateModified: '2016-09-02T11:51:39.265Z'
 title: Party Catering Menu
 id: d46faf6b-f6b1-4e7e-9b9d-7a63b0156230
 publisher: {}
