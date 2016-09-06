@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-02T12:23:15.262Z'
+datePublished: '2016-09-02T14:20:18.747Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T12:23:14.466Z'
+dateModified: '2016-09-02T14:20:18.221Z'
 title: Ready to Cook
 publisher: {}
 description: >-
