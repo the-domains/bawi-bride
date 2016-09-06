@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-02T12:18:53.983Z'
+datePublished: '2016-09-02T12:23:15.262Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T12:18:15.402Z'
+dateModified: '2016-09-02T12:23:14.466Z'
 title: Ready to Cook
 publisher: {}
 description: >-
@@ -12,8 +12,8 @@ description: >-
   Parsi food easier, we’ve got a range of ready to cook masala pastes for you to
   order. All of them have a shelf life of 7 days in the refrigerator and are
   super easy to use. Call us now to place your order for some masala’s
-starred: false
 sourcePath: _posts/2016-09-02-ready-to-cook.md
+starred: false
 url: ready-to-cook/index.html
 _type: Blurb
 
