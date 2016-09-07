@@ -1,4 +1,5 @@
-typography_spectrum: 0.7666059748735279
+layout_spectrum: 0.48922608932480216
+typography_spectrum: 0.641183421947062
 color:
   brandStrength: 0.2887887437827885
   lightness: 0.9076210898347199
@@ -10,7 +11,6 @@ color:
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
-layout_spectrum: 0.08610391546972096
 author:
   name: Perzen Patel
   email: perzen@bawibride.com
